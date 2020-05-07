@@ -10,6 +10,9 @@ Business Trips Management Web Site
 
 #### Business Trips Cost Graph
 
+## How to use reciPhoto
+https://youtu.be/w1b0tqASMMA
+
 
 
 
