@@ -4,11 +4,17 @@ Business Trips Management Web Site
 
 ## Main Function
 
-#### Automatic entry of receipts
+### Automatic entry of receipts
 
-#### Schedule management for business trips
+##### Google Vision, OpenCv
 
-#### Business Trips Cost Graph
+### Schedule management for business trips
+
+##### Google Calendar
+
+### Business Trips Cost Graph
+
+##### Google Analytics
 
 ## How to use reciPhoto
 https://youtu.be/w1b0tqASMMA
