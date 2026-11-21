@@ -12,7 +12,8 @@
 <script type="text/javascript">
 	google.charts.load('current', {
 		'packages' : ['corechart','geochart'],
-		'mapsApiKey': 'AIzaSyB2lk2ZcgCftdqo3nGHjyRcG7MnKGy5GLc'
+		// Read from the GOOGLE_MAPS_API_KEY environment variable (never commit the key)
+		'mapsApiKey': '<%= java.util.Objects.toString(System.getenv("GOOGLE_MAPS_API_KEY"), "") %>'
 	});
     
 	$(function() {
